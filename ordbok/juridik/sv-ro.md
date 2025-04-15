@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Juridik: Svenska - Rumänska"
 ---
 

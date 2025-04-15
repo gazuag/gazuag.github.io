@@ -3,5 +3,5 @@ title: "Juridikordbok"
 layout: default
 ---
 
-- [Svenska - Rumänska](sv-ro)
-- [Rumänska - Svenska](sv-ro)
+- [Svenska - Rumänska](sv-ro.html)
+- [Rumänska - Svenska](sv-ro.html)

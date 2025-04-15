@@ -3,8 +3,18 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown-light.min.css">
+  <style>
+    body {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+  </style>
 </head>
 <body>
-  {{ content }}
+  <article class="markdown-body">
+    {{ content }}
+  </article>
 </body>
 </html>

@@ -5,39 +5,6 @@ layout: default
 
 | Română | Suedeză|
 | :--- | :--- |
-| ? | Ämbetsberättelse|
-| ? | Arvsavstående|
-| ? | Balansomslutning|
-| ? | Bevistalan|
-| ? | Blipp|
-| ? | Bortfallande av dom|
-| ? | Brukande av det förfalskade som om han eller hon själv gjort förfalskningen|
-| ? | Denuntiation|
-| ? | Energi|
-| ? | Enskild grupptalan|
-| ? | EU-domstolen|
-| ? | EU:s varu- och digitaldirektiv|
-| ? | Formbundenhet|
-| ? | Försvarsunderrättelsedomstolen|
-| ? | Hemlig dataavläsning|
-| ? | Hobby|
-| ? | In obligio|
-| ? | Kapning och sjö- eller luftfartssabotage|
-| ? | Kappa|
-| ? | Konkurrensfråga|
-| ? | Krimprod|
-| ? | Patentråd|
-| ? | Rättsförhållande|
-| ? | Regleringsbrev|
-| ? | Swish|
-| ? | Taleform|
-| ? | Tillträdesregister|
-| ? | Timeshare|
-| ? | Totalförsvarspliktiga|
-| ? | Tredimensionell fastighetsbildning|
-| ? | Underställningsmål|
-| ? | Vårdvistelse|
-| ?? Mortificație? Stingere? | Mortifikation|
 | ”de ochii lumii”/ pentru aparență | För skens skull|
 | A completa un cec | Att ställa ut en check|
 | A comunica sentința | Meddela dom|

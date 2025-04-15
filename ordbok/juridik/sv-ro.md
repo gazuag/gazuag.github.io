@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Juridik: Svenska - Rumänska"
+title: "Juridikordbok: Svenska - Rumänska"
 ---
 
 | Svenska | Rumänska |

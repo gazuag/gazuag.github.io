@@ -1,5 +1,5 @@
 ---
-title: "Juridik: Rumänska - Svenska"
+title: "Juridikordbok: Rumänska - Svenska"
 layout: default
 ---
 

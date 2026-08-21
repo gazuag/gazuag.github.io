@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="duna" tvg-name="Duna" group-title="Magyar",Duna
+https://mycelium.my.to:8443/resolve?ch=dunalive
+
+#EXTINF:-1 tvg-id="dunaworld" tvg-name="Duna World" group-title="Magyar",Duna World
+https://mycelium.my.to:8443/resolve?ch=dunaworldlive
+
+#EXTINF:-1 tvg-id="m1" tvg-name="M1" group-title="Magyar",M1
+https://mycelium.my.to:8443/resolve?ch=mtv1live
+
+#EXTINF:-1 tvg-id="m2" tvg-name="M2" group-title="Magyar",M2
+https://mycelium.my.to:8443/resolve?ch=mtv2live
+
+#EXTINF:-1 tvg-id="m4sport" tvg-name="M4 Sport" group-title="Magyar",M4 Sport
+https://mycelium.my.to:8443/resolve?ch=mtv4live
+
+#EXTINF:-1 tvg-id="m4sportplus" tvg-name="M4 Sport +" group-title="Magyar",M4 Sport +
+https://mycelium.my.to:8443/resolve?ch=mtv4plus
+
+#EXTINF:-1 tvg-id="m5" tvg-name="M5" group-title="Magyar",M5
+https://mycelium.my.to:8443/resolve?ch=mtv5live

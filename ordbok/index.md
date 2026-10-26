@@ -4,3 +4,4 @@ title: "Ordbok"
 ---
 
 - [Juridik](juridik/)
+- [Medicin](medicin/)

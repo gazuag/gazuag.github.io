@@ -2,6 +2,6 @@
 title: "Samhällskunskapsordbok"
 layout: default
 ---
-[⬑ Upp ett steg](../)
+[&larr; Alla ordlistor](/ordbok/)
 
 - [Svenska - Ungerska](sv-hu.html)

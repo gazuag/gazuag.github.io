@@ -2,7 +2,7 @@
 layout: default
 title: "Juridikordbok: Svenska - Rumänska"
 ---
-
+[&larr; Index](./)
 | Svenska | Rumänska |
 | :--- | :--- |
 | §18-fullmakt | Mandat § 18 |

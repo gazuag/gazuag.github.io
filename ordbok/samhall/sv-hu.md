@@ -2,6 +2,7 @@
 title: "Samhällskunskapsordbok: Svenska  - Ungerska"
 layout: default
 ---
+[&larr; Index](./)
 
 | Svenska: | Ungerska |
 | --- | --- |

@@ -2,7 +2,7 @@
 title: "Juridikordbok: Rumänska - Svenska"
 layout: default
 ---
-
+[&larr; Index](./)
 | Română | Suedeză|
 | :--- | :--- |
 | ”de ochii lumii”/ pentru aparență | För skens skull|

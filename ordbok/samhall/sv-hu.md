@@ -1,3 +1,8 @@
+---
+title: "Samhällskunskapsordbok: Svenska  - Ungerska"
+layout: default
+---
+
 | Svenska: | Ungerska |
 | --- | --- |
 | §12- hem | 12. §-os otthon (speciális fiatalkori otthon) |

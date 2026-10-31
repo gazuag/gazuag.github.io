@@ -2,7 +2,9 @@
 title: "Medicinordbok: Svenska - Ungerska"
 layout: default
 ---
+
 [&larr; Index](./)
+
 | Kapitel 1 | Fejezet |
 | --- | --- |
 | fosterutvecklingen 13 | magzati fejlődés |
